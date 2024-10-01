@@ -1,4 +1,9 @@
 {
   "name": "firstapp",
-  "displayName": "firstapp"
+  "displayName": "firstapp",
+  "extra": {
+    "eas": {
+      "projectId": "500fb7bb-5b50-465a-8953-a44d8ec85b44"
+    }
+  }
 }
